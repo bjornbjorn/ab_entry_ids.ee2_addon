@@ -1,0 +1,4 @@
+AB Entry IDs is a replacement for {exp:query} that instead of looping will return a |-separated list of entry_ids which you can use as a parameter to other tags (for example the {exp:channel:entries} tag).
+
+"AB Entry IDs":http://wedoaddons.com/addon/ab-entry-ids
+"Documentation":http://wedoaddons.com/addon/ab-entry-ids/documentation
